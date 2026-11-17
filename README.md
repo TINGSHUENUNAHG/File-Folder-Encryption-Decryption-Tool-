@@ -1,7 +1,8 @@
 # File-Folder-Encryption-Decryption-Tool-
 Author: TingShuen Huang
+Cybersecurity Tool developed in Go.
 
-Overview
+## Overview
 File & Folder Encryption Tool is a security utility developed in Go for encrypting and decrypting files and folders locally.
 
 The tool is designed to help users protect sensitive information using strong cryptographic algorithms without requiring internet connectivity.
