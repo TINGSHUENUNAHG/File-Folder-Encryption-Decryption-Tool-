@@ -8,14 +8,15 @@ File & Folder Encryption Tool is a security utility developed in Go for encrypti
 The tool is designed to help users protect sensitive information using strong cryptographic algorithms without requiring internet connectivity.
 
 ## Features
-AES-256 file encryption
-Folder encryption and decryption
-Drag-and-drop operation
-Offline processing
-Windows desktop application
-Password-protected encryption
-Secure file protection
-Technical Information
+- AES-256 File Encryption
+- Folder Encryption and Decryption
+- Drag-and-Drop Operation
+- Offline Processing
+- Windows Desktop Application
+- Password-Protected Encryption
+- Secure File Protection
+
+## Technical Information
 Language: Go
 
 ## Security Functions:
