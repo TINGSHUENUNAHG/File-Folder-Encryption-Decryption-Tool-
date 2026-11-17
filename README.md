@@ -1,2 +1,40 @@
 # File-Folder-Encryption-Decryption-Tool-
-Free File &amp; Folder Encryption Tool V1.0 | Secure Your Important Files with Offline AES-256 Encryption. Simple drag-and-drop operation, no internet upload required—ideal for professionals and personal use.
+Author: TingShuen Huang
+
+Overview
+File & Folder Encryption Tool is a security utility developed in Go for encrypting and decrypting files and folders locally.
+
+The tool is designed to help users protect sensitive information using strong cryptographic algorithms without requiring internet connectivity.
+
+Features
+AES-256 file encryption
+Folder encryption and decryption
+Drag-and-drop operation
+Offline processing
+Windows desktop application
+Password-protected encryption
+Secure file protection
+Technical Information
+Language: Go
+
+Security Functions:
+
+AES-256 Encryption
+SecretBox Encryption
+Secure Password Handling
+Usage
+Launch the application.
+Select a file or folder.
+Enter the encryption password.
+Encrypt or decrypt the selected target.
+Save the protected output.
+Screenshots
+(Add screenshots here)
+
+Author
+TingShuen Huang
+
+Project Type: Cybersecurity Tool / File Encryption Utility
+
+License
+MIT License
