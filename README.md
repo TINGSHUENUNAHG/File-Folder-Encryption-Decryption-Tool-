@@ -1,5 +1,6 @@
 # File-Folder-Encryption-Decryption-Tool-
 **Author:** TingShuen Huang
+
 **Cybersecurity Tool developed in Go.**
 
 ## Overview
