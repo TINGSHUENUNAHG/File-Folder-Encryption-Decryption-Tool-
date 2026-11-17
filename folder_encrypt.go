@@ -50,7 +50,7 @@ var i18n = map[Lang]map[string]string{
 		"windowTitle":  "🔐 檔案/資料夾加解密 V1.0",
 		"aboutBtn":     "ℹ 關於",
 		"aboutTitle":   "關於本程式",
-		"aboutContent": "作者: Pecezen.org\n\n版權宣告:\n本軟體採開源授權，轉載請註明出處。\n\n免責聲明:\n本程式僅供練習及測試使用，作者不對任何數據遺失或後果負責。\n請務必妥善保管您的金鑰或密碼。",
+		"aboutContent": "作者: TingShuen Huang(Pecezen.org)\n\n版權宣告:\n本軟體採開源授權，轉載請註明出處。\n\n免責聲明:\n本程式僅供練習及測試使用，作者不對任何數據遺失或後果負責。\n請務必妥善保管您的金鑰或密碼。",
 
 		"langLabel": "介面語言：",
 		"langZH":    "繁體中文",
@@ -102,7 +102,7 @@ var i18n = map[Lang]map[string]string{
 		"windowTitle":  "🔐 File/Folder Encryptor V1.0",
 		"aboutBtn":     "ℹ About",
 		"aboutTitle":   "About this App",
-		"aboutContent": "Author: Pecezen.org\n\nCopyright:\nThis software is open-source. Please credit the author when sharing.\n\nDisclaimer:\nThis software is for practice/testing only. The author is not responsible for any data loss. \nPlease keep your keys and passwords safe.",
+		"aboutContent": "Author: TingShuen Huang(Pecezen.org)\n\nCopyright:\nThis software is open-source. Please credit the author when sharing.\n\nDisclaimer:\nThis software is for practice/testing only. The author is not responsible for any data loss. \nPlease keep your keys and passwords safe.",
 
 		"langLabel": "Language:",
 		"langZH":    "繁體中文",
@@ -154,7 +154,7 @@ var i18n = map[Lang]map[string]string{
 		"windowTitle":  "🔐 ファイル/フォルダの暗号化 V1.0",
 		"aboutBtn":     "ℹ 情報",
 		"aboutTitle":   "このプログラムについて",
-		"aboutContent": "著者: Pecezen.org\n\n著作権:\nこのソフトウェアはオープンソースです。轉載時は著者を明記してください。\n\n免責事項:\n本ソフトは学習目的のみ。データの損失等について著者は一切の責任を負いません。",
+		"aboutContent": "著者: TingShuen Huang(Pecezen.org)\n\n著作権:\nこのソフトウェアはオープンソースです。轉載時は著者を明記してください。\n\n免責事項:\n本ソフトは学習目的のみ。データの損失等について著者は一切の責任を負いません。",
 
 		"langLabel": "表示言語：",
 		"langZH":    "繁體中文",
@@ -206,7 +206,7 @@ var i18n = map[Lang]map[string]string{
 		"windowTitle":  "🔐 Datei/Ordner-Verschlüsselung V1.0",
 		"aboutBtn":     "ℹ Über",
 		"aboutTitle":   "Über diese App",
-		"aboutContent": "Autor: Pecezen.org\n\nCopyright:\nDiese Software ist Open-Source. Bitte geben Sie den Autor an.\n\nHaftungsausschluss:\nDiese Software dient nur zu Übungs-/Testzwecken. Der Autor haftet nicht für Datenverlust.\nBitte bewahren Sie Ihre Schlüssel und Passwörter sicher auf.",
+		"aboutContent": "Autor: TingShuen Huang(Pecezen.org)\n\nCopyright:\nDiese Software ist Open-Source. Bitte geben Sie den Autor an.\n\nHaftungsausschluss:\nDiese Software dient nur zu Übungs-/Testzwecken. Der Autor haftet nicht für Datenverlust.\nBitte bewahren Sie Ihre Schlüssel und Passwörter sicher auf.",
 
 		"langLabel": "Sprache:",
 		"langZH":    "繁體中文",
